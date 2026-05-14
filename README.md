@@ -2,8 +2,8 @@
 
 > Production work-time, payroll & invoicing system for **Puutähti Oy** — a
 > Finnish forestry company. Used daily by the team (director + foreman +
-> field workers) since the 2025 season.
->
+> field workers). January 2026 - April 2026, support and maintenance ongoing. 
+> Production use during the 2026 forestry season and beyond.
 > Live: <https://metsatracker.web.app>
 
 This repository is a **public summary** of the project — it documents the
