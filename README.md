@@ -56,7 +56,7 @@ company owner:
   per-field `.validate` constraints, PBKDF2 PIN hashing with migration
   from legacy plaintext, role-based access (director / foreman).
 - **DevOps** — build pipeline, version management, release cadence
-  (60+ tagged releases), Firebase Hosting deploy.
+  (60+ tagged releases in the private production repository), Firebase Hosting deploy.
 - **Testing** — 86 unit tests covering calc layer, validation,
   hash round-trips, format helpers.
 - **Customer-facing work** — gathering requirements from the owner,
